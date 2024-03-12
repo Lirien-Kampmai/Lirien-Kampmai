@@ -37,17 +37,3 @@
 <h3 align="left">Socials:</h3>
 
 ###
-
-<div align="left">
-  <a href="lirienkampmai" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=gold&labelColor=black&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="anton.liri.gorshkov@icloud.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Mail&logo=gmail&label=&color=D14836&logoColor=gold&labelColor=black&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="@Lirien_Kampmai" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=%20Lirien&logo=telegram&label=&color=2CA5E0&logoColor=gold&labelColor=black&style=for-the-badge" height="35" alt="telegram logo"  />
-  </a>
-</div>
-
-###
