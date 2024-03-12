@@ -33,7 +33,3 @@
 </div>
 
 ###
-
-<h3 align="left">Socials:</h3>
-
-###
